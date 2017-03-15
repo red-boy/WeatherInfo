@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeatherLineView">
+        <attr name="WeatherLineView_temperTextSize" format="dimension"/>
+        <attr name="WeatherLineView_weatextColor" format="color"/>
+        <attr name="WeatherLineView_weaLineWidth" format="dimension"/>
+        <attr name="WeatherLineView_weadotRadius" format="dimension"/>
+        <attr name="WeatherLineView_textDotDistance" format="dimension"/>
+
+    </declare-styleable>
+<!--自定义控件的属性-->
+
+</resources>
